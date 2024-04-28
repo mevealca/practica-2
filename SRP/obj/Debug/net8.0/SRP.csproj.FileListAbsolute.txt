@@ -1,0 +1,11 @@
+C:\repositories\NetCore\Curso C#\SRP\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\repositories\NetCore\Curso C#\SRP\SRP\bin\Debug\net8.0\SRP.dll
+C:\repositories\NetCore\Curso C#\SRP\SRP\bin\Debug\net8.0\SRP.pdb
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\SRP.dll
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\SRP.pdb
+C:\repositories\NetCore\Curso C#\SRP\SRP\obj\Debug\net8.0\ref\SRP.dll
